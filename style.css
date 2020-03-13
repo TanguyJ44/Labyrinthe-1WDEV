@@ -1,4 +1,52 @@
 body {
-    margin: 0;
-    background-color: #2c3e50;
+    margin-left: 16%;
+    margin-top: 10px;
+    background-color: #bdc3c7;
+}
+
+.cols {
+    position: absolute;
+}
+
+#col2 {
+    margin-left: 100px;
+}
+
+#col3 {
+    margin-left: 200px;
+}
+
+#col4 {
+    margin-left: 300px;
+}
+
+#col5 {
+    margin-left: 400px;
+}
+
+#col6 {
+    margin-left: 500px;
+}
+
+#col7 {
+    margin-left: 600px;
+}
+
+#col8 {
+    margin-left: 700px;
+}
+
+#col9 {
+    margin-left: 800px;
+}
+
+#col10 {
+    margin-left: 900px;
+}
+
+.cases {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #34495e;
 }
