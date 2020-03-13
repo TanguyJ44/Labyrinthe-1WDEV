@@ -4,6 +4,13 @@ body {
     background-color: #ecf0f1;
 }
 
+.player {
+    position: absolute;
+    z-index: 10;
+    top: 118px;
+    left: 260px;
+}
+
 .cols {
     position: absolute;
 }
